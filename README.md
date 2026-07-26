@@ -1,3 +1,5 @@
+![Social Anxiety: An End-to-End Data Analysis Project](figures/banner.png)
+
 # Social Anxiety: An End-to-End Data Analysis Project
 
 A complete data analysis workflow on a survey of **2,030 respondents** — from raw CSV through
